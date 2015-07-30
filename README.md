@@ -1,8 +1,4 @@
----
-tags: sql, joins, foreign keys, introductory, micro
-languages: sql
-resources: 1
----
+
 
 # Sql Table Relations Lab
 
